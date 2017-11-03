@@ -41,7 +41,7 @@ def main():
     model = Model(input,logit)
     model.load_weights('weight/20171102-1.h5')
 
-    path = 'f:/baidu_ocr_data/image/7.png'
+    path = 'test_image/1.png'
     image = read_image(path)
     result = model.predict(image)
 
