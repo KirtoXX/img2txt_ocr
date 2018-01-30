@@ -1,5 +1,4 @@
 # img2txt_ocr
-# 二维码文字识别
 1.Data：http://meizu.baiducloud.top/ps/web/index.html <p>
 
 # Network Architecture
