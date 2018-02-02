@@ -4,8 +4,9 @@ I train the little deep neural network on K40 GPU for 100epoch without img aug.<
 Finall I got the accuracy of 95.5% <p>
 
 # Data
-url：http://meizu.baiducloud.top/ps/web/index.html <p>
-![](https://github.com/KirtoXX/img2txt_ocr/blob/master/test_image/0.png)<p>
+url：http://meizu.baiducloud.top/ps/web/index.html <p><p>
+example: 1-1*4 <p>
+![](https://github.com/KirtoXX/img2txt_ocr/blob/master/test_image/0.png) <p>
 
 # Network Architecture
 1.use CNNs to encode img to vectors<p>
